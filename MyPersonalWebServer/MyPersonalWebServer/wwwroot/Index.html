@@ -1,0 +1,34 @@
+﻿<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/lib/bootstrap/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="alert alert-info">Jarvis!</h1>
+        <button id="btnStatus" class="btn btn-success">Verificar Status</button>
+        <div id="status-display"></div>
+    </div>
+
+    <script src="/lib/jquery/jquery.min.js"></script>
+    <script src="/lib/bootstrap/bootstrap.bundle.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#btnStatus').click(function () {
+                checarStatus();
+            });
+        });
+
+        function checarStatus() {
+            $.get('/api/v1/home/Status')
+                .done(function (data) {
+                    $('#status-display').text(data);
+                })
+                .fail(function () {
+                    $('#status-display').text("DESCONECTADO");
+                });
+        }
+    </script>
+</body>
+</html>

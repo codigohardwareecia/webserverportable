@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\principal\\Downloads\\MyPersonalWebServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24D41492-7882-DE63-42BA-09A7B37AEB94}|MyPersonalWebServer\\MyPersonalWebServer.csproj|c:\\users\\principal\\downloads\\mypersonalwebserver\\mypersonalwebserver\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D41492-7882-DE63-42BA-09A7B37AEB94}|MyPersonalWebServer\\MyPersonalWebServer.csproj|solutionrelative:mypersonalwebserver\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D41492-7882-DE63-42BA-09A7B37AEB94}|MyPersonalWebServer\\MyPersonalWebServer.csproj|c:\\users\\principal\\downloads\\mypersonalwebserver\\mypersonalwebserver\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D41492-7882-DE63-42BA-09A7B37AEB94}|MyPersonalWebServer\\MyPersonalWebServer.csproj|solutionrelative:mypersonalwebserver\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D41492-7882-DE63-42BA-09A7B37AEB94}|MyPersonalWebServer\\MyPersonalWebServer.csproj|c:\\users\\principal\\downloads\\mypersonalwebserver\\mypersonalwebserver\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24D41492-7882-DE63-42BA-09A7B37AEB94}|MyPersonalWebServer\\MyPersonalWebServer.csproj|solutionrelative:mypersonalwebserver\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D41492-7882-DE63-42BA-09A7B37AEB94}|MyPersonalWebServer\\MyPersonalWebServer.csproj|c:\\users\\principal\\downloads\\mypersonalwebserver\\mypersonalwebserver\\datashare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D41492-7882-DE63-42BA-09A7B37AEB94}|MyPersonalWebServer\\MyPersonalWebServer.csproj|solutionrelative:mypersonalwebserver\\datashare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D41492-7882-DE63-42BA-09A7B37AEB94}|MyPersonalWebServer\\MyPersonalWebServer.csproj|c:\\users\\principal\\downloads\\mypersonalwebserver\\mypersonalwebserver\\wwwroot\\legado.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D41492-7882-DE63-42BA-09A7B37AEB94}|MyPersonalWebServer\\MyPersonalWebServer.csproj|solutionrelative:mypersonalwebserver\\wwwroot\\legado.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D41492-7882-DE63-42BA-09A7B37AEB94}|MyPersonalWebServer\\MyPersonalWebServer.csproj|c:\\users\\principal\\downloads\\mypersonalwebserver\\mypersonalwebserver\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24D41492-7882-DE63-42BA-09A7B37AEB94}|MyPersonalWebServer\\MyPersonalWebServer.csproj|solutionrelative:mypersonalwebserver\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D41492-7882-DE63-42BA-09A7B37AEB94}|MyPersonalWebServer\\MyPersonalWebServer.csproj|c:\\users\\principal\\downloads\\mypersonalwebserver\\mypersonalwebserver\\mypersonalwebserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24D41492-7882-DE63-42BA-09A7B37AEB94}|MyPersonalWebServer\\MyPersonalWebServer.csproj|solutionrelative:mypersonalwebserver\\mypersonalwebserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataShare.cs",
+              "DocumentMoniker": "C:\\Users\\principal\\Downloads\\MyPersonalWebServer\\MyPersonalWebServer\\DataShare.cs",
+              "RelativeDocumentMoniker": "MyPersonalWebServer\\DataShare.cs",
+              "ToolTip": "C:\\Users\\principal\\Downloads\\MyPersonalWebServer\\MyPersonalWebServer\\DataShare.cs",
+              "RelativeToolTip": "MyPersonalWebServer\\DataShare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T00:17:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\principal\\Downloads\\MyPersonalWebServer\\MyPersonalWebServer\\frmMain.cs",
+              "RelativeDocumentMoniker": "MyPersonalWebServer\\frmMain.cs",
+              "ToolTip": "C:\\Users\\principal\\Downloads\\MyPersonalWebServer\\MyPersonalWebServer\\frmMain.cs [Design]",
+              "RelativeToolTip": "MyPersonalWebServer\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T00:16:46.388Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\principal\\Downloads\\MyPersonalWebServer\\MyPersonalWebServer\\frmMain.cs",
+              "RelativeDocumentMoniker": "MyPersonalWebServer\\frmMain.cs",
+              "ToolTip": "C:\\Users\\principal\\Downloads\\MyPersonalWebServer\\MyPersonalWebServer\\frmMain.cs",
+              "RelativeToolTip": "MyPersonalWebServer\\frmMain.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAjwCkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T23:14:04.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyPersonalWebServer.csproj",
+              "DocumentMoniker": "C:\\Users\\principal\\Downloads\\MyPersonalWebServer\\MyPersonalWebServer\\MyPersonalWebServer.csproj",
+              "RelativeDocumentMoniker": "MyPersonalWebServer\\MyPersonalWebServer.csproj",
+              "ToolTip": "C:\\Users\\principal\\Downloads\\MyPersonalWebServer\\MyPersonalWebServer\\MyPersonalWebServer.csproj",
+              "RelativeToolTip": "MyPersonalWebServer\\MyPersonalWebServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T21:20:25.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\principal\\Downloads\\MyPersonalWebServer\\MyPersonalWebServer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyPersonalWebServer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\principal\\Downloads\\MyPersonalWebServer\\MyPersonalWebServer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyPersonalWebServer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:11:06.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\principal\\Downloads\\MyPersonalWebServer\\MyPersonalWebServer\\wwwroot\\Index.html",
+              "RelativeDocumentMoniker": "MyPersonalWebServer\\wwwroot\\Index.html",
+              "ToolTip": "C:\\Users\\principal\\Downloads\\MyPersonalWebServer\\MyPersonalWebServer\\wwwroot\\Index.html",
+              "RelativeToolTip": "MyPersonalWebServer\\wwwroot\\Index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-21T21:21:51.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Legado.html",
+              "DocumentMoniker": "C:\\Users\\principal\\Downloads\\MyPersonalWebServer\\MyPersonalWebServer\\wwwroot\\Legado.html",
+              "RelativeDocumentMoniker": "MyPersonalWebServer\\wwwroot\\Legado.html",
+              "ToolTip": "C:\\Users\\principal\\Downloads\\MyPersonalWebServer\\MyPersonalWebServer\\wwwroot\\Legado.html",
+              "RelativeToolTip": "MyPersonalWebServer\\wwwroot\\Legado.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-21T23:00:28.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
